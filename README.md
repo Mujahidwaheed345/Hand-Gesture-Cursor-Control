@@ -20,12 +20,6 @@ Make sure you have the following dependencies installed:
 pip install opencv-python mediapipe pyautogui numpy
 
 How to Run
-
-Clone or Download the Repository
-
-git clone https://github.com/your-repo/airpointer.git
-cd airpointer
-
 Run the script
 
 python airpointer.py
